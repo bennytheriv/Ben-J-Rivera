@@ -1,0 +1,26 @@
+{
+    "id": "CC8D265C",
+    "path": "~/Website/RiveraWebsite/config/_default/languages.toml",
+    "project_path": "config/_default/languages.toml",
+    "type": "toml",
+    "hash": "277619987",
+    "contents": "",
+    "dirty": false,
+    "created": 1641870401377.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "2,10",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1641870444,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1641870444590,
+    "read_only": false,
+    "read_only_alternatives": []
+}
